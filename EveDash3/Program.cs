@@ -27,7 +27,7 @@ static class Program
 
         //init sso
         SSO_Handler.InitializeSSO_Handler();
-        //bug.WriteLine(SQLHandler.LegacyQueryEveDB("SELECT * FROM stastations LIMIT 5"));
+        //bug.WriteLine(SQLHandler.LegacyQueryevesde("SELECT * FROM stastations LIMIT 5"));
 
 
         //SSO_Handler.refreshAuth(SSO_Handler.refreshToken);
